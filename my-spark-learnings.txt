@@ -1,0 +1,8 @@
+This was a good tutorial on running spark on the Amazon EMR cluster. I was able to execute several jupyter notebooks on localhost using port forwarding after connecting to the amazon EMR cluster. The tutorials will be helpful for future reference, and as starter code when we dive deeper.
+
+The examples gave me good exposure to RDD creation, basic transformations such as map and filter, sampling RDDs, using set operations on RDDs, aggregate RDD data in Spark, working with key/value pair RDDs etc. 
+
+In particular, I enjoyed exploring Spark's machine learning library MLlib through its basic statistics functionality to better understand datasets, build a Logistic Regression, Decision Tree classifier, performing model selection by using a correlation matrix and by using hypothesis testing.
+
+In addition, using Spark SQL enables us to use SQL language to query data frames commonly used by data scientists using Python. Exploring ggplot to visualize data, Text Analytics, clustering and recommendations on the amazon cluster were also a good experience. And finally, try out the starter code for a kaggle titanic dataset competition.
+
